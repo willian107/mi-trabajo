@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap');
+
+*{
+    font-family: "Rubik", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    
+}
+.conteiner{
+    display:flex;
+    flex-direction: column;
+    width: 80vw;
+    align-items: center;
+}
+
+.facebook{
+    height: 200px;
+    width: 400px;
+    font-size: 1.5rem;
+    color: blanchedalmond;
+    text-align: center;
+    background-color:blue;
+
+}
+.img{
+    height: 5rem;
+    position: relative;
+    margin-bottom: 200px;
+    align-items: center;
+}
+
+.registro{
+    
+    margin-top: 3rem;
+}
+
+.boton{
+    margin-top: 4rem;
+}
+
+
